@@ -1,0 +1,16 @@
+{
+  "name": "mws-restaurant-stage-1-master",
+  "version": "1.0.0",
+  "description": "Project Udacity",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-image": "^4.3.0",
+    "gulp-image-resize": "^0.13.0",
+    "gulp-jimp-resize": "^2.0.2"
+  }
+}
