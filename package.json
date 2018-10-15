@@ -12,5 +12,8 @@
     "gulp-image": "^4.3.0",
     "gulp-image-resize": "^0.13.0",
     "gulp-jimp-resize": "^2.0.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
   }
 }
